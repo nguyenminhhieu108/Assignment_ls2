@@ -1,0 +1,7 @@
+# Bỏ qua các file dữ liệu nặng (GitHub giới hạn file >100MB và không khuyến khích đẩy data lớn)
+*.csv
+*.zip
+
+# Bỏ qua cache Python
+__pycache__/
+.ipynb_checkpoints/
